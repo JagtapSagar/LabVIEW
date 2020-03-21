@@ -2,7 +2,7 @@ Project 1 : Analog Data Acquisition and Digital Filtering
 =========================================================
 
 
-The project consists on building a data acquisition VI that reads and filters data from two analog sensors (accelerometer or gyroscope) and one digital sensor (optical encoder). The VI will have the following characteristics:The control panel will prompt you for the following input:
+The project consists on building a data acquisition VI that reads and filters data from two analog sensors (accelerometer or gyroscope) and one digital sensor (optical encoder). The VI will have the following characteristics: The control panel will prompt you for the following input:
 
 - Number of points to acquire
 - Scan rate
