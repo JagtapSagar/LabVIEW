@@ -1,4 +1,4 @@
 # Instrumentation & Measurements
 
-This repository includes projects files from <b><i>MEE5318: Instrumentation and Meas</b></i> course at FloridaTech.
+This repository includes projects files from <b><i>MEE5318: Instrumentation and Measurements</b></i> course at FloridaTech.
 The projects were made using NI LabView.
