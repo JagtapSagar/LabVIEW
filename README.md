@@ -1,3 +1,3 @@
-# Instrumentation & Measurements
+# LabVIEW Projects Repository
 
-This repository includes contains all the projects that were done using NI LabVIEW software.
+This repository contains all the projects that were done using NI LabVIEW software.
